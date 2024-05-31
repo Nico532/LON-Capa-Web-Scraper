@@ -1,4 +1,4 @@
-##### Bachelorarbeit: Emulation von LON-Capa via Web Scraping:
+## Bachelorarbeit: Emulation von LON-Capa via Web Scraping:
 - SeleniumScraper: 
   - enthält Python Dateien für Emulation mittels des Selenium Frameworks)
   - enthält ChromeDriver version 86 (muss gleiche Version wie installierter Chrome Browser sein, andere Version downloadbar unter https://chromedriver.chromium.org/downloads)
