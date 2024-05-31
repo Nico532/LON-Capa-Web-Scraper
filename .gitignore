@@ -1,0 +1,7 @@
+chromedriver.exe
+
+# Other common ignores
+node_modules/
+*.log
+*.tmp
+.DS_Store
